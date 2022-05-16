@@ -1,4 +1,4 @@
-# internship_assignment
+# Maps in flutter app
 
 
 THE API KEY HAS BEEN REMOVED
